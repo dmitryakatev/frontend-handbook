@@ -19,8 +19,9 @@
   - [HTTPS](./handbook/03_networking/3_https.md)
   - [cookies](./handbook/03_networking/4_cookies.md)
   - [CORS](./handbook/03_networking/5_cors.md)
-  - [cache](./handbook/03_networking/6_cache.md)
-  - [WebSocket](./handbook/03_networking/7_websockets.md)
+  - [CSP](./handbook/03_networking/6_csp.md)
+  - [cache](./handbook/03_networking/7_cache.md)
+  - [WebSocket](./handbook/03_networking/8_websockets.md)
 
 - **4. Безопасность**
   - [Виды атак](./handbook/04_security/1_security.md)
